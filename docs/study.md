@@ -1,6 +1,7 @@
 ## Streamlit自定义组件开发教程
 
 [参考文章1](https://blog.csdn.net/shebao3333/article/details/128726301)
+[另外一个Demo](https://github.com/asehmi/streamlit-toggle-buttons-component)
 
 ### 什么是Streamlit组件？
 
